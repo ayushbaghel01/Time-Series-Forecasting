@@ -72,4 +72,4 @@ DeepAnT was applied to detect anomalies in Canadian climate data. The model was 
 
 ## Acknowledgements
 
-- **DeepAnT Model Implementation:** The implementation of the DeepAnT architecture was adapted from the [DatascienceArticle](https://towardsdatascience.com/deepant-unsupervised-anomaly-detection-for-time-series-97c5308546ea).
+- **DeepAnT Model Implementation:** The implementation of the DeepAnT architecture is adapted from the [DatascienceArticle](https://towardsdatascience.com/deepant-unsupervised-anomaly-detection-for-time-series-97c5308546ea).
